@@ -3,7 +3,6 @@ from critics import AbstractCritic, CriticNetwork01
 from actors import AbstractActor, ActorNetwork01
 from players import AbstractAIPlayer, AIPlayer00
 from pokemons import AbstractPokemon, Pokemon00
-import randomTeams.randomTeam as randomTeam
 from moves import AbstractMove, Move00
 import otherPlayers
 from collections import Counter

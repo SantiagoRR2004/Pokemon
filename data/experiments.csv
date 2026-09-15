@@ -1,0 +1,2 @@
+fileName,TrainingMethod,actor,critic,reward,move,pokemon,player,nInputs,useRandom,useMaxDamage,useSelfPlay
+experiment1,actorCritic,ActorNetwork02,CriticNetwork02,RewardFunction01,Move00,Pokemon00,AIPlayer00,60,True,False,False
